@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "6104a6f7f2395f7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d16d4c76483b024",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7d7213db36eaa02",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c996326dfb39f84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf392e99a714a3ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff709683060bd7ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52fc06efbd499061",
+    "type": "split",
+    "children": [
+      {
+        "id": "a976839bc663d766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d4ec170bd923fd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9d16d4c76483b024",
+  "lastOpenFiles": [
+    "Obedient Cat(Completed).md",
+    "first flag.png",
+    "Untitled.md"
+  ]
+}
